@@ -10,7 +10,7 @@ WeatherButton Widget for Wordpress from The Weather Network
 
 == Description ==
 
-WeatherButton Widgets for Wordpress from the Weather Network
+WeatherButton Widgets for Wordpress from the Weather Network updated
 
 Now it's easier than ever to keep your site visitors informed of up-to-date weather conditions. Simply upload a WeatherButton Widget from The Weather Network on  your Wordpress powered website and follow the instructions to offer new content to your site visitors.
 
