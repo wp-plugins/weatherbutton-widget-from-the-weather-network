@@ -1,49 +1,23 @@
-=== WeatherButton Widget from the Weather Network ===
-Contributors: sajmeri, Jhurtubise  
-Donate link: 
-Tags: weather, widget, weather button,weatherbutton, the weather network, theweathernetwork, forecast, weather forecast, current conditions, 
-Requires at least: 3.0
-Tested up to: 3.32
-Stable tag: trunk
+=== TWN Weather ===
+Contributors: TWN
+Donate link: http://www.theweathernetwork.com
+Tags: weather, temperature, forecast, city weather forecast
 
-WeatherButton Widget for Wordpress from The Weather Network
 
 == Description ==
 
-WeatherButton Widgets for Wordpress from the Weather Network
+Display the weather for your city on your sidebar. Select from various layouts and designs
 
-Now it's easier than ever to keep your site visitors informed of up-to-date weather conditions. Simply upload a WeatherButton Widget from The Weather Network on  your Wordpress powered website and follow the instructions to offer new content to your site visitors.
-
-With two options available, light and dark versions, The Weather Network WeatherButton Widget blends perfectly in your site's design.
-
-http://www.theweathernetwork.com/weatherplugin/wordpress/twn-weather.zip
+* Set your widget preferences at http://www.theweathernetwork.com/weather-widget
+* Select from two different font colours
+* Select between metric or imperial
+* Select between a single loction or multiple locations (up to six)
 
 
 == Installation ==
 
-1. Download the file twn-weather.zip from 
-http://www.theweathernetwork.com/weatherplugin/wordpress/twn-weather.zip
-2. Upload `twn-weather.zip` to the `/wp-content/plugins/` directory of your site
-3. Activate the plugin through the 'Plugins' menu in WordPress
-4. Choose the city location code at http://www.theweathernetwork.com/weather_centre/wcwxbutton
-
-
-== Frequently Asked Questions ==
-
-Send your questions and comments at: 
-http://media.theweathernetwork.com/contact.php
-
-
-== Screenshots ==
-
-1. The light version of the Weatherbutton.(screenshot-1.jpg) 
-2. The dark version of the Weatherbutton. (screenshot-2.jpg)
-
-== Changelog ==
-
-= 1.0 
-* First release.
-
-== Upgrade Notice ==
-
-= 1.0 = First release. Please come back often to http://www.theweathernetwork.com/weather_centre/wcwxbutton to be informed of new releases. 
+1. Download the zip file and extract the contents,
+2. Upload the folder `twn-weather` to your WP plugin folder `/wp-content/plugins/` directory,
+3. Go to Plugins > Plugins, and activate the plugin,
+4. Go to Appearance > Widgets, and drag the widget to a sidebar,
+5. Enter the widget ID and the first location code that you got from http://www.theweathernetwork.com/weather-widget in the widget's settings menu
