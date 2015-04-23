@@ -2,7 +2,7 @@
 Contributors: TWN
 Donate link: http://www.theweathernetwork.com
 Tags: weather, temperature, forecast, city weather forecast
-Tested up to: 4.1.1
+Tested up to: 4.2
 Stable tag: trunk
 
 == Description ==
